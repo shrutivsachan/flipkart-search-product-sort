@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53e4d486-1cf9-4bcd-aad3-04af4b884b43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1wQpmXw7fKrk68OkEQMMgUA7lwf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../APITesting" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="TestNG.validationTest">
+    <configuration name="D:/FlipKart/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FlipKart" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FlipKart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FlipkartTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FlipkartTests" />
+      <option name="MAIN_CLASS_NAME" value="FlipkartTests.SearchPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="validationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FlipKart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FlipkartTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FlipkartTests" />
+      <option name="MAIN_CLASS_NAME" value="FlipkartTests.validationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="validationTest.validateSearchBox" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FlipKart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FlipkartTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FlipkartTests" />
+      <option name="MAIN_CLASS_NAME" value="FlipkartTests.validationTest" />
+      <option name="METHOD_NAME" value="validateSearchBox" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="validationTest.validateTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FlipKart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FlipkartTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FlipkartTests" />
+      <option name="MAIN_CLASS_NAME" value="FlipkartTests.validationTest" />
+      <option name="METHOD_NAME" value="validateTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.validationTest" />
+        <item itemvalue="TestNG.D:/FlipKart/testng.xml" />
+        <item itemvalue="TestNG.SearchPageTest" />
+        <item itemvalue="TestNG.validationTest.validateSearchBox" />
+        <item itemvalue="TestNG.validationTest.validateTitle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53e4d486-1cf9-4bcd-aad3-04af4b884b43" name="Default Changelist" comment="" />
+      <created>1628400826258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628400826258</updated>
+    </task>
+    <servers />
+  </component>
+</project>
